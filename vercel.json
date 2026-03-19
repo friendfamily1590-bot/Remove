@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/remove.py": {
-      "runtime": "python3.9"
+      "maxDuration": 10
     }
   }
 }
